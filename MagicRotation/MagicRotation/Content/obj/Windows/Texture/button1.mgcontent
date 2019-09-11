@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/button1.png</SourceFile>
-  <SourceTime>2018-10-10T14:43:36+09:00</SourceTime>
-  <DestFile>C:/GameJam.09/MagicRotation/MagicRotation/Content/bin/Windows/Texture/button1.xnb</DestFile>
-  <DestTime>2019-09-11T14:47:18.130805+09:00</DestTime>
+  <SourceFile>C:/Users/K018A1697/Desktop/gamejam09/MagicR/MagicRotation/MagicRotation/Content/Texture/button1.png</SourceFile>
+  <SourceTime>2019-09-11T15:11:39.6429287+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1697/Desktop/gamejam09/MagicR/MagicRotation/MagicRotation/Content/bin/Windows/Texture/button1.xnb</DestFile>
+  <DestTime>2019-09-11T15:17:06.3094902+09:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
