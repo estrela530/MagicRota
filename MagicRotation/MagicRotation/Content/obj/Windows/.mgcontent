@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/black.png</File>
-    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/block.png</File>
-    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/button1.png</File>
-    <File>C:/GameJam.09/MagicRotation/MagicRotation/Content/Texture/player.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam09/MagicR/MagicRotation/MagicRotation/Content/Texture/black.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam09/MagicR/MagicRotation/MagicRotation/Content/Texture/block.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam09/MagicR/MagicRotation/MagicRotation/Content/Texture/button1.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam09/MagicR/MagicRotation/MagicRotation/Content/Texture/player.png</File>
   </SourceFiles>
 </SourceFileCollection>

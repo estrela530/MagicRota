@@ -61,3 +61,6 @@
 /processorParam:TextureFormat=Color
 /build:Texture/player.png
 
+#begin stage案1-1.csv
+/copy:stage案1-1.csv
+
