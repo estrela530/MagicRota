@@ -8,5 +8,6 @@ namespace MagicRotation.Actor
 {
     class Player
     {
+
     }
 }
